@@ -1,1 +1,1 @@
-Change from feature1 branch
+Final merged content from feature1 and feature2
